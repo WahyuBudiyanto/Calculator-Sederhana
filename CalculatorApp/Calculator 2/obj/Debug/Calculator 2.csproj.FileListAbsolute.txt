@@ -1,0 +1,10 @@
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator 2.csprojAssemblyReference.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator_2.Form1.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator_2.Properties.Resources.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator 2.csproj.GenerateResource.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator 2.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\bin\Debug\Calculator 2.exe.config
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\bin\Debug\Calculator 2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\bin\Debug\Calculator 2.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator 2.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\CalculatorApp\Calculator 2\obj\Debug\Calculator 2.pdb
